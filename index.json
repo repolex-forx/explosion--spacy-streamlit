@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-streamlit",
+  "versions": [
+    {
+      "commit": "715d463ff3e00097ee638f52aba971651bd74b38",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:35:50.153074+00:00"
+    }
+  ]
+}
