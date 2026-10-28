@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-streamlit/commit/715d463ff3e00097ee638f52aba971651bd74b38",
       "git:hexsha": "715d463ff3e00097ee638f52aba971651bd74b38",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-streamlit/commit/b1af799524abaa0eddff946d4c2e517a9ba9699b",
